@@ -3,7 +3,7 @@
 
 ## 🔨 Funcionalidades do projeto
 
-A aplicação consiste que o usuário digite dois números inteiros, com estes dois números o sistema obtem a quantidade de interações e realizar a impressão no console dos números incrementados.
+A aplicação consiste que o usuário digite dois números inteiros, com estes dois números o sistema obtém a quantidade de interações e realizar a impressão no console dos números incrementados.
 
 ## Exemplo do terminal
 ![Terminal](https://github.com/MarcusViniciusGodoy/assets/blob/main/dio2.PNG)
